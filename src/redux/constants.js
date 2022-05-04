@@ -1,0 +1,7 @@
+export const PROMISE_STATUSES = {
+  PENDING: "PENDING",
+  RESOLVED: "RESOLVED",
+  REJECTED: "REJECTED",
+};
+
+export const PROMISE_TYPE = "PROMISE";

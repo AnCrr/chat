@@ -1,0 +1,3 @@
+export const SOCKET_ADD_MESSAGE = "SOCKET_ADD_MESSAGE";
+
+export const SOCKET_DIALOG = "SOCKET_DIALOG";
